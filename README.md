@@ -60,7 +60,7 @@ A unified AI-powered financial intelligence platform that provides:
 ## Core Features
 ### Real-Time Market Intelligence
 
-**(Dashboard Preview)[https://github.com/Hassan0397/AI-Financial-Research-Agent/blob/main/Dashboard%20page%20preview%20.png]**
+**[Dashboard Preview](https://github.com/Hassan0397/AI-Financial-Research-Agent/blob/main/Dashboard%20page%20preview%20.png)**
 
 - Live cryptocurrency prices (100+ assets)
 
@@ -74,7 +74,7 @@ A unified AI-powered financial intelligence platform that provides:
 
 ### AI-Powered Analysis
 
-**(AI-Analysis Preview)[https://github.com/Hassan0397/AI-Financial-Research-Agent/blob/main/Analysis%20Page%20Preview.png]**
+**[AI-Analysis Preview](https://github.com/Hassan0397/AI-Financial-Research-Agent/blob/main/Analysis%20Page%20Preview.png)**
 
 - Machine learning–based risk assessment (1–10 scale)
 
@@ -98,11 +98,11 @@ A unified AI-powered financial intelligence platform that provides:
 
 ### Professional Reporting
 
-**(Report Preview 1)[https://github.com/Hassan0397/AI-Financial-Research-Agent/blob/main/Report%20Generator%20page%20Preview%201.png]**
+**[Report Preview 1](https://github.com/Hassan0397/AI-Financial-Research-Agent/blob/main/Report%20Generator%20page%20Preview%201.png)**
 
-**(Report Preview 2)[https://github.com/Hassan0397/AI-Financial-Research-Agent/blob/main/Report%20Generator%20page%20Preview%202.png]**
+**[Report Preview 2](https://github.com/Hassan0397/AI-Financial-Research-Agent/blob/main/Report%20Generator%20page%20Preview%202.png)**
 
-**(Report Preview 3)[https://github.com/Hassan0397/AI-Financial-Research-Agent/blob/main/Report%20Generator%20page%20Preview%203.png]**
+**[Report Preview 3](https://github.com/Hassan0397/AI-Financial-Research-Agent/blob/main/Report%20Generator%20page%20Preview%203.png)**
 
 - One-click PDF report generation
 
