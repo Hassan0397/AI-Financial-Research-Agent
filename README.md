@@ -137,26 +137,27 @@ A unified AI-powered financial intelligence platform that provides:
 
 User Input
 
-     ↓
+↓
    
 Data Fetching
 
-     ↓
+↓
    
 Multi-Source Verification
 
-     ↓
+↓
    
 Machine Learning Analysis
 
-     ↓
+↓
    
 AI Insight Generation
 
-     ↓
+↓
+
 Visualization
 
-     ↓
+↓
    
 PDF Report
 
