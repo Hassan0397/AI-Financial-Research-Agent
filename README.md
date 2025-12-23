@@ -41,3 +41,18 @@ Interactive visual analytics
 
 Automated PDF reporting
 
+## AI & Machine Learning
+
+This project actively uses Machine Learning for:
+
+Risk scoring and volatility modeling
+
+Trend and pattern detection
+
+Technical indicator analysis (RSI, MACD, Moving Averages)
+
+News sentiment analysis using NLP
+
+Buy / Hold / Sell recommendation engine
+
+Risk-based position sizing
