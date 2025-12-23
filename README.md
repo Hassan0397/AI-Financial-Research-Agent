@@ -21,7 +21,7 @@ The platform uses Machine Learning, Generative AI, and automated analytics to co
 
 - Real-time crypto and stock monitoring
 
--**Machine Learning–driven insights**
+- **Machine Learning–driven insights**
 
 - Risk-aware investment decisions
 
