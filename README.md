@@ -5,54 +5,54 @@ The platform uses Machine Learning, Generative AI, and automated analytics to co
 ## Problem Statement
 ### Challenges
 
-Information overload with no clear insights
+- Information overload with no clear insights
 
-Expensive and inaccessible professional tools
+- Expensive and inaccessible professional tools
 
-Fragmented financial data across multiple platforms
+- Fragmented financial data across multiple platforms
 
-Manual analysis that is slow and biased
+- Manual analysis that is slow and biased
 
-Lack of professional, decision-ready reports
+- Lack of professional, decision-ready reports
 
 ### Market Need
 
-Institutional-quality financial analysis
+- Institutional-quality financial analysis
 
-Real-time crypto and stock monitoring
+- Real-time crypto and stock monitoring
 
-Machine Learning–driven insights
+-**Machine Learning–driven insights**
 
-Risk-aware investment decisions
+- Risk-aware investment decisions
 
-Automated professional reporting
+- Automated professional reporting
 
 ## Solution
 
 A unified AI-powered financial intelligence platform that provides:
 
-Real-time multi-source market data
+- Real-time multi-source market data
 
-Machine Learning models for prediction and risk scoring
+- Machine Learning models for prediction and risk scoring
 
-Generative AI–based financial insights
+- Generative AI–based financial insights
 
-Interactive visual analytics
+- Interactive visual analytics
 
-Automated PDF reporting
+- Automated PDF reporting
 
 ## AI & Machine Learning
 
-This project actively uses Machine Learning for:
+- This project actively uses Machine Learning for:
 
-Risk scoring and volatility modeling
+- Risk scoring and volatility modeling
 
-Trend and pattern detection
+- Trend and pattern detection
 
-Technical indicator analysis (RSI, MACD, Moving Averages)
+- Technical indicator analysis (RSI, MACD, Moving Averages)
 
-News sentiment analysis using NLP
+- News sentiment analysis using NLP
 
-Buy / Hold / Sell recommendation engine
+- Buy / Hold / Sell recommendation engine
 
-Risk-based position sizing
+- Risk-based position sizing
