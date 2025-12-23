@@ -3,7 +3,7 @@ AI Financial Research Agent is a professional-grade AI & Machine Learning–powe
 The platform uses Machine Learning, Generative AI, and automated analytics to convert raw financial data into actionable investment intelligence.
 
 ## Problem Statement
-**Challenges**
+### Challenges
 
 Information overload with no clear insights
 
@@ -15,7 +15,7 @@ Manual analysis that is slow and biased
 
 Lack of professional, decision-ready reports
 
-**Market Need**
+### Market Need
 
 Institutional-quality financial analysis
 
