@@ -113,3 +113,22 @@ A unified AI-powered financial intelligence platform that provides:
 - API-first architecture
 
 - Scalable and modular design
+
+## Architecture
+### Frontend
+
+Streamlit-based user interface
+
+Plotly interactive visualizations
+
+Professional custom CSS
+
+### Backend Services
+
+**ai_engine.py** – Machine learning and AI analysis engine
+
+**data_fetch.py** – Multi-source data aggregation
+
+**news_fetch.py** – News collection and sentiment analysis
+
+**report_gen.py** – Automated PDF reporting
