@@ -56,3 +56,48 @@ A unified AI-powered financial intelligence platform that provides:
 - Buy / Hold / Sell recommendation engine
 
 - Risk-based position sizing
+
+## Core Features
+### Real-Time Market Intelligence
+
+- Live cryptocurrency prices (100+ assets)
+
+- Stock market quotes and fundamentals
+
+- Market news aggregation with sentiment analysis
+
+- Smart asset detection (Crypto vs Stock)
+
+- Price discrepancy alerts
+
+### AI-Powered Analysis
+
+- Machine learning–based risk assessment (1–10 scale)
+
+- Technical and trend analysis
+
+- Sentiment scoring from financial news
+
+- Trading recommendations with confidence levels
+
+- Risk-aware position sizing
+
+### Visualization
+
+- Interactive candlestick and volume charts
+
+- Multi-timeframe technical analysis
+
+- Market sentiment dashboards
+
+- Portfolio performance analytics
+
+### Professional Reporting
+
+- One-click PDF report generation
+
+- Executive and investment memo templates
+
+- Risk matrices and action plans
+
+- Confidential watermarks
