@@ -199,3 +199,13 @@ PDF Report
 - Yahoo Finance
 
 - Google News RSS
+
+## Use Cases
+
+- Retail investors seeking AI-driven insights
+
+- Financial analysts and advisors
+
+- Market research and education
+
+- Institutional monitoring and reporting
