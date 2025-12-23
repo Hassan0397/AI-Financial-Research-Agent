@@ -161,4 +161,41 @@ Visualization
    
 PDF Report
 
+## Technology Stack
+### Frontend & Visualization
 
+- Streamlit
+
+- Plotly
+
+- Custom CSS
+
+- FPDF
+
+### Data Processing
+
+- Pandas
+
+- NumPy
+
+- yFinance
+
+### AI & Machine Learning
+
+- Scikit-learn
+
+- Llama 3 (Ollama)
+
+- OpenAI GPT-4
+
+- TextBlob (NLP)
+
+### APIs
+
+- CoinGecko
+
+- CoinCap
+
+- Yahoo Finance
+
+- Google News RSS
