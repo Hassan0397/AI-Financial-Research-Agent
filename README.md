@@ -209,3 +209,55 @@ PDF Report
 - Market research and education
 
 - Institutional monitoring and reporting
+
+## Getting Started
+
+### 1️⃣ Create a virtual environment
+
+**Windows:**
+
+python -m venv myenv
+
+
+**Linux/macOS:**
+
+python3 -m venv myenv
+
+
+Here, myenv is the name of your virtual environment. You can choose any name.
+
+### 2️⃣ Activate the virtual environment
+
+**Windows (Command Prompt):**
+
+myenv\Scripts\activate
+
+
+**Windows (PowerShell):**
+
+.\myenv\Scripts\Activate.ps1
+
+
+**Linux/macOS:**
+
+source myenv/bin/activate
+
+
+You should now see (myenv) at the start of your terminal prompt.
+
+### 3️⃣ Install required packages
+
+Make sure Streamlit is installed:
+
+pip install streamlit
+
+
+If your project has a requirements.txt, install dependencies using:
+
+pip install -r requirements.txt
+
+### 4️⃣ Run the Streamlit app
+streamlit run app.py
+
+
+After running this, Streamlit will open your app in the default web browser.
